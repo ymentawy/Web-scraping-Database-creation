@@ -33,7 +33,7 @@ This project is a Car Marketplace application built using Python and Tkinter for
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/car-marketplace.git
+   git clone https://github.com/ymentawy/Web-scraping-Database-creation
 
 ## Database Setup
 1. MySQL Database:
